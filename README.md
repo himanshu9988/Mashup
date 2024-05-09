@@ -4,7 +4,7 @@
 Mashup is a Python package for creating mashups of audio files from YouTube videos. It allows you to download audio from YouTube videos related to a specific artist, cut them to a specified duration, and merge them into one audio file.
 
 ## Installation
-You can install Mashup-102103038 via package manager *pip*:
+You can install Mashup-102103242 via package manager *pip*:
 
 pip install Mashup-102103038
 

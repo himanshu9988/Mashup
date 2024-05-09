@@ -1,9 +1,9 @@
 Metadata-Version: 2.1
-Name: Mashup-102103034
+Name: Mashup-102103242
 Version: 0.0.1
 Summary: Mashup of audio files from youtube videos.
-Author: iyasha
-Author-email: iyashagoyal215@gmail.com
+Author: Himanshu
+Author-email: hhimanshu1_be21@thapar.edu
 Keywords: mashup,youtube,web-scraping,audio-processing,audio-merging,audio-cutting,audio-mixing,audio-editing,audio-manipulation,audio-concatenation
 Classifier: Development Status :: 1 - Planning
 Classifier: Intended Audience :: Developers
@@ -16,15 +16,15 @@ Requires-Dist: selenium
 Requires-Dist: pydub
 Requires-Dist: pytube
 
-# Mashup-102103034
+# Mashup-102103242
 
 ## Description
 Mashup is a Python package for creating mashups of audio files from YouTube videos. It allows you to download audio from YouTube videos related to a specific artist, cut them to a specified duration, and merge them into one audio file.
 
 ## Installation
-You can install Mashup-102103034 via package manager **pip**:
+You can install Mashup-102103242 via package manager **pip**:
 
-`pip install Mashup-102103034`
+`pip install Mashup-102103242`
 
 
 ## Usage
